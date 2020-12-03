@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 15" width="8" height="15">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="About">
+		<g id="meet the team">
+			<g id="meber 1">
+				<g id="social">
+					<path id="facebook" class="shp0" d="M5.47 5.09L5.47 3.82C5.47 3.16 5.53 2.8 6.48 2.8L7.75 2.8L7.75 0.27L5.72 0.27C3.28 0.27 2.43 1.5 2.43 3.56L2.43 5.09L0.91 5.09L0.91 7.62L2.43 7.62L2.43 14.98L5.47 14.98L5.47 7.62L7.5 7.62L7.77 5.09L5.47 5.09Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
