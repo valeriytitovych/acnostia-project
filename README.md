@@ -4,6 +4,8 @@
 
 ## Than you have to install gulp, so run "npm install gulp --save-dev". After it install next pulp plugins:
 
+## npm install del for clear dist folder
+
 ## npm install node-sass gulp-sass --save-dev for sass prepocessor
 
 ## npm i gulp-sourcemaps to create soursmaps
